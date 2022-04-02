@@ -1,0 +1,10 @@
+.items{
+    height: 430px;
+    background-color: rgb(197, 207, 216);
+    padding: 10px;
+    line-height: 10px;
+    border: 1px solid lightpink;
+}
+.items img{
+    height: 250px;
+}

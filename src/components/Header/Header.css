@@ -1,0 +1,13 @@
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    font-size: 1.2rem;
+}
+nav a:hover{
+    color: brown;
+}
+.custom-link{
+    display: flex;
+    justify-content: center;
+}
